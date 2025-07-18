@@ -25,7 +25,9 @@ body {
     margin: 0;
 }
 html {
-    font-family: 'futura-pt', helvetica, san-serif;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-size: 100%;
     color: $text;
     font-weight: 400;
@@ -39,9 +41,14 @@ img {
 }
 /* --------------------------------------------------------*/
 h1, h2, h3 {
+    font-family: "Merriweather", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
     margin: 0;
-    text-transform: uppercase;
     line-height: 1.2;
+}
+h2 {
+    text-transform: uppercase;
 }
 h4 {
     font-size: 1.2rem;
@@ -161,6 +168,7 @@ header {
             border-bottom: 5px solid $text;
             overflow: hidden;
             img {
+                filter: grayscale(1);
                 transform: rotate(45deg) scale(1.5);
                 opacity: 0.5;
             }
