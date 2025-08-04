@@ -18,7 +18,7 @@ const WorkExamples: React.FC = () => {
           <li key={index}>
             <div
               className="background"
-              style={{ backgroundImage: `url(/assets/img/${item.image})` }}
+              style={{ backgroundImage: `url(./assets/img/${item.image})` }}
             >
               <a
                 href={item.url}
