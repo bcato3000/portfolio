@@ -1093,38 +1093,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/public/assets/img/work_publix.jpg": {
-		"ft": 16384,
-		"iS": 801067,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/assets/img/work_publix.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
 	"/public/assets/img/work_resideo.jpg": {
 		"ft": 16384,
 		"iS": 153765,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/img/work_resideo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/public/assets/img/work_sonic.jpg": {
-		"ft": 16384,
-		"iS": 484620,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/assets/img/work_sonic.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
