@@ -175,6 +175,7 @@ header a {
     text-transform: uppercase;
     color: rgba(12, 12, 10, 0.8);
     font-weight: 700;
+    cursor: pointer;
   }
   header .profile-pic {
     grid-column: 1/3;
@@ -395,6 +396,7 @@ main > section > h2 {
 }
 @media (max-width: 767px) {
   main > section > h2 {
+    font-size: 1.2rem;
     text-align: left;
   }
 }
@@ -462,7 +464,7 @@ main .work-list .background .foreground > ul li {
   font-size: 18px;
 }
 main .work-list .background .foreground > ul li ul {
-  margin: 0 0 0 40px;
+  margin: 10px 0 0 40px;
 }
 main .work-list .background .foreground > ul li ul li {
   list-style: circle;
@@ -497,7 +499,7 @@ main .carousel .carousel-cell img {
   max-height: 100px;
 }
 main .former-career {
-  opacity: 0.4;
+  opacity: 0.2;
 }
 main .contact-me a {
   display: inline-block;
