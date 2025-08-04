@@ -12,12 +12,12 @@ const Contact: React.FC = () => {
         </li>
         <li>
           <a href="https://www.linkedin.com/in/cato3000/" target="_blank" rel="noopener noreferrer">
-            <img src="/assets/img/linkedin.svg" alt="linkedin" />
+            <img src="./assets/img/linkedin.svg" alt="linkedin" />
           </a>
         </li>
       </ul>
       <img
-        src="/assets/img/1918.png"
+        src="./assets/img/1918.png"
         alt="amazed 1918 people"
         className="looking-up"
       />
