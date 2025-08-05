@@ -585,31 +585,31 @@
 		"oAP": "/build/static/js/453.ffd317f4.chunk.js.map",
 		"oF": 0
 		},
-	"/build/static/js/main.52021279.js": {
+	"/build/static/js/main.47ba9b3b.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/build/static/js/main.52021279-min.js",
+		"oAP": "/build/static/js/main.47ba9b3b-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/build/static/js/main.52021279.js.LICENSE.txt": {
+	"/build/static/js/main.47ba9b3b.js.LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/static/js/main.52021279.js.LICENSE.txt",
+		"oAP": "/build/static/js/main.47ba9b3b.js.LICENSE.txt",
 		"oF": 0
 		},
-	"/build/static/js/main.52021279.js.map": {
+	"/build/static/js/main.47ba9b3b.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/static/js/main.52021279.js.map",
+		"oAP": "/build/static/js/main.47ba9b3b.js.map",
 		"oF": 0
 		},
 	"/build/static/media/bc-logo.b7e415b9300cb33b7118ec8de83b633e.svg": {
@@ -1433,6 +1433,17 @@
 		"oF": 0,
 		"rC": 0,
 		"tEC": 0
+		},
+	"/src/index.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/src/index-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/src/index.tsx": {
 		"cDF": 0,
