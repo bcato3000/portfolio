@@ -585,31 +585,31 @@
 		"oAP": "/build/static/js/453.ffd317f4.chunk.js.map",
 		"oF": 0
 		},
-	"/build/static/js/main.8b91b404.js": {
+	"/build/static/js/main.cd4cfc38.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/build/static/js/main.8b91b404-min.js",
+		"oAP": "/build/static/js/main.cd4cfc38-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/build/static/js/main.8b91b404.js.LICENSE.txt": {
+	"/build/static/js/main.cd4cfc38.js.LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/static/js/main.8b91b404.js.LICENSE.txt",
+		"oAP": "/build/static/js/main.cd4cfc38.js.LICENSE.txt",
 		"oF": 0
 		},
-	"/build/static/js/main.8b91b404.js.map": {
+	"/build/static/js/main.cd4cfc38.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/static/js/main.8b91b404.js.map",
+		"oAP": "/build/static/js/main.cd4cfc38.js.map",
 		"oF": 0
 		},
 	"/build/static/media/bc-logo.b7e415b9300cb33b7118ec8de83b633e.svg": {
@@ -656,19 +656,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"/public/assets/img/1918.png": {
-		"ft": 32768,
-		"iS": 350915,
-		"oA": 0,
-		"oAP": "/public/assets/img/1918.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
 		},
 	"/public/assets/img/linkedin.svg": {
 		"ft": 2097152,
@@ -1023,103 +1010,12 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/public/assets/img/work_allegis.jpg": {
-		"ft": 16384,
-		"iS": 111142,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/assets/img/work_allegis.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/public/assets/img/work_amdro.jpg": {
-		"ft": 16384,
-		"iS": 216580,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/assets/img/work_amdro.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/public/assets/img/work_brainjocks.jpg": {
-		"ft": 16384,
-		"iS": 21986,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/assets/img/work_brainjocks.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/public/assets/img/work_honeywellhome.jpg": {
-		"ft": 16384,
-		"iS": 134930,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/assets/img/work_honeywellhome.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/public/assets/img/work_ipa.jpg": {
-		"ft": 16384,
-		"iS": 131846,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/assets/img/work_ipa.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/public/assets/img/work_iron_mountain.jpg": {
-		"ft": 16384,
-		"iS": 217151,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/assets/img/work_iron_mountain.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
 	"/public/assets/img/work_publix.jpg": {
 		"ft": 16384,
 		"iS": 291683,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/img/work_publix.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/public/assets/img/work_resideo.jpg": {
-		"ft": 16384,
-		"iS": 153765,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/public/assets/img/work_resideo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

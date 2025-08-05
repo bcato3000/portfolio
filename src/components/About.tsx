@@ -35,7 +35,7 @@ const About: React.FC = () => {
             <img
               key={index}
               className="carousel-cell"
-              src={`./assets/img/${logo.src}`}
+              src={`${process.env.PUBLIC_URL}/assets/img/${logo.src}`}
               alt={logo.alt}
             />
           ))}
