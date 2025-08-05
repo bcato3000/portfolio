@@ -27,7 +27,7 @@ const Header: React.FC = () => {
         <nav className="portfolio-links">
           <ul>
             <li>
-              <a href="/Ben-Cato-resume.pdf" download="Ben-Cato-resume">Download Resume</a>
+              <a href="/portfolio/Ben-Cato-resume.pdf" download="Ben-Cato-resume">Download Resume</a>
             </li>
             <li><ScrollLink to="work" smooth={true} offset={-70} duration={500}>Work Examples</ScrollLink></li>
             <li><ScrollLink to="skills" smooth={true} offset={-70} duration={500}>Skills / Expertise</ScrollLink></li>

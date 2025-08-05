@@ -508,6 +508,14 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/build/Ben-Cato-Resume.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/Ben-Cato-Resume.pdf",
+		"oF": 0
+		},
 	"/build/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -1131,6 +1139,14 @@
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
+		},
+	"/public/Ben-Cato-Resume.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/Ben-Cato-Resume.pdf",
+		"oF": 0
 		},
 	"/public/favicon.ico": {
 		"cB": 0,
