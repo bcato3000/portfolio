@@ -37,6 +37,7 @@ const About: React.FC = () => {
               className="carousel-cell"
               src={`${process.env.PUBLIC_URL}/assets/img/${logo.src}`}
               alt={logo.alt}
+              loading="lazy"
             />
           ))}
         </div>
