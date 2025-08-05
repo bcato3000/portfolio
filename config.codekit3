@@ -17,6 +17,14 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/build/asset-manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/build/asset-manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/build/assets/img/1918.png": {
 		"ft": 32768,
 		"iS": 300570,
@@ -516,6 +524,14 @@
 		"oAP": "/build/favicon.ico",
 		"oF": 0
 		},
+	"/build/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/index.html",
+		"oF": 0
+		},
 	"/build/manifest.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -531,6 +547,93 @@
 		"oA": 0,
 		"oAP": "/build/robots.txt",
 		"oF": 0
+		},
+	"/build/static/css/main.3f1f0a85.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/static/css/main.3f1f0a85-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/build/static/css/main.3f1f0a85.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/static/css/main.3f1f0a85.css.map",
+		"oF": 0
+		},
+	"/build/static/js/453.ffd317f4.chunk.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/build/static/js/453.ffd317f4.chunk-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/build/static/js/453.ffd317f4.chunk.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/static/js/453.ffd317f4.chunk.js.map",
+		"oF": 0
+		},
+	"/build/static/js/main.4e0c0de2.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/build/static/js/main.4e0c0de2-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/build/static/js/main.4e0c0de2.js.LICENSE.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/static/js/main.4e0c0de2.js.LICENSE.txt",
+		"oF": 0
+		},
+	"/build/static/js/main.4e0c0de2.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/static/js/main.4e0c0de2.js.map",
+		"oF": 0
+		},
+	"/build/static/media/bc-logo.b7e415b9300cb33b7118ec8de83b633e.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/static/media/bc-logo.b7e415b9300cb33b7118ec8de83b633e.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/build/static/media/profile-pic-2.c26361bd593871282e4e.jpg": {
+		"ft": 16384,
+		"iS": 1575238,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/static/media/profile-pic-2.c26361bd593871282e4e.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/node_modules": {
 		"ft": 65536,
