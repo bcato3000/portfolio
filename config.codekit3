@@ -471,7 +471,7 @@
 		},
 	"/build/assets/img/work_publix.jpg": {
 		"ft": 16384,
-		"iS": 801067,
+		"iS": 291683,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/assets/img/work_publix.jpg",
@@ -497,7 +497,7 @@
 		},
 	"/build/assets/img/work_sonic.jpg": {
 		"ft": 16384,
-		"iS": 484620,
+		"iS": 176984,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/assets/img/work_sonic.jpg",
@@ -1093,12 +1093,38 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/public/assets/img/work_publix.jpg": {
+		"ft": 16384,
+		"iS": 291683,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/public/assets/img/work_publix.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/public/assets/img/work_resideo.jpg": {
 		"ft": 16384,
 		"iS": 153765,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/img/work_resideo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/public/assets/img/work_sonic.jpg": {
+		"ft": 16384,
+		"iS": 176984,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/public/assets/img/work_sonic.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1208,6 +1234,19 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/src/assets/img/profile-pic-2.png": {
+		"ft": 32768,
+		"iS": 538499,
+		"oA": 0,
+		"oAP": "/src/assets/img/profile-pic-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
