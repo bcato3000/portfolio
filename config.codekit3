@@ -585,31 +585,31 @@
 		"oAP": "/build/static/js/453.ffd317f4.chunk.js.map",
 		"oF": 0
 		},
-	"/build/static/js/main.4e0c0de2.js": {
+	"/build/static/js/main.52021279.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/build/static/js/main.4e0c0de2-min.js",
+		"oAP": "/build/static/js/main.52021279-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/build/static/js/main.4e0c0de2.js.LICENSE.txt": {
+	"/build/static/js/main.52021279.js.LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/static/js/main.4e0c0de2.js.LICENSE.txt",
+		"oAP": "/build/static/js/main.52021279.js.LICENSE.txt",
 		"oF": 0
 		},
-	"/build/static/js/main.4e0c0de2.js.map": {
+	"/build/static/js/main.52021279.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/static/js/main.4e0c0de2.js.map",
+		"oAP": "/build/static/js/main.52021279.js.map",
 		"oF": 0
 		},
 	"/build/static/media/bc-logo.b7e415b9300cb33b7118ec8de83b633e.svg": {
@@ -720,26 +720,6 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/public/assets/img/logo-dutch.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/public/assets/img/logo-dutch.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"/public/assets/img/logo-ghostbusters.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/public/assets/img/logo-ghostbusters.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
 	"/public/assets/img/logo-git.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -800,16 +780,6 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/public/assets/img/logo-mtv.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/public/assets/img/logo-mtv.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
 	"/public/assets/img/logo-netflix.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -825,36 +795,6 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/public/assets/img/logo-next.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"/public/assets/img/logo-nintendo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/public/assets/img/logo-nintendo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"/public/assets/img/logo-outkast.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/public/assets/img/logo-outkast.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"/public/assets/img/logo-pa.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/public/assets/img/logo-pa.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
