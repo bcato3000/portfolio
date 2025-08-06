@@ -720,6 +720,26 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/public/assets/img/logo-dutch.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/img/logo-dutch.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/public/assets/img/logo-ghostbusters.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/img/logo-ghostbusters.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/public/assets/img/logo-git.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -780,6 +800,16 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/public/assets/img/logo-mtv.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/img/logo-mtv.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/public/assets/img/logo-netflix.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -795,6 +825,36 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/public/assets/img/logo-next.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/public/assets/img/logo-nintendo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/img/logo-nintendo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/public/assets/img/logo-outkast.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/img/logo-outkast.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/public/assets/img/logo-pa.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/img/logo-pa.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,

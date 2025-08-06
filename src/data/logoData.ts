@@ -44,6 +44,10 @@ export const logoData = [
     "alt": "the 80s logo"
   },
   {
+    "src": "logo-fleetwood.svg",
+    "alt": "fleetwood mac logo"
+  },
+  {
     "src": "logo-sketch.svg",
     "alt": "sketch app logo"
   },
