@@ -98,6 +98,16 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/build/assets/img/logo-fleetwood.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/assets/img/logo-fleetwood.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/build/assets/img/logo-ghostbusters.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -585,31 +595,31 @@
 		"oAP": "/build/static/js/453.ffd317f4.chunk.js.map",
 		"oF": 0
 		},
-	"/build/static/js/main.52021279.js": {
+	"/build/static/js/main.fe1be962.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/build/static/js/main.52021279-min.js",
+		"oAP": "/build/static/js/main.fe1be962-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/build/static/js/main.52021279.js.LICENSE.txt": {
+	"/build/static/js/main.fe1be962.js.LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/static/js/main.52021279.js.LICENSE.txt",
+		"oAP": "/build/static/js/main.fe1be962.js.LICENSE.txt",
 		"oF": 0
 		},
-	"/build/static/js/main.52021279.js.map": {
+	"/build/static/js/main.fe1be962.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/static/js/main.52021279.js.map",
+		"oAP": "/build/static/js/main.fe1be962.js.map",
 		"oF": 0
 		},
 	"/build/static/media/bc-logo.b7e415b9300cb33b7118ec8de83b633e.svg": {
@@ -725,6 +735,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/public/assets/img/logo-dutch.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/public/assets/img/logo-fleetwood.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/img/logo-fleetwood.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
