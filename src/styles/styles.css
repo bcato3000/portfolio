@@ -269,7 +269,7 @@ header a {
   }
   @media (max-width: 991px) {
     header .profile-pic img {
-      transform: rotate(0) scale(1);
+      transform: rotate(0) scale(1.5);
     }
   }
   @media (min-width: 1000px) {
