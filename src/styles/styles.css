@@ -193,6 +193,7 @@ header a {
     opacity: 0.5;
   }
   header .hero-blurb {
+    position: relative;
     grid-column: 3/6;
     grid-row: 5;
     font-size: 0.9rem;
@@ -202,6 +203,15 @@ header a {
     line-height: 1.3;
     padding-bottom: 5px;
     font-weight: 400;
+  }
+  header .hero-blurb::after {
+    position: absolute;
+    bottom: -25px;
+    right: -100vw;
+    width: 100vw;
+    height: 25px;
+    background: #1eaed3;
+    content: "";
   }
   header .portfolio-links {
     border-top: 5px solid rgba(12, 12, 10, 0.8);
@@ -231,6 +241,9 @@ header a {
     header .hero-blurb {
       border-bottom: 20px solid #1eaed3;
     }
+    header .hero-blurb::after {
+      display: none;
+    }
   }
   @media (max-width: 700px) {
     header .profile-pic {
@@ -255,7 +268,7 @@ header a {
     header .hero-blurb {
       grid-column: 1/4;
       grid-row: 3;
-      border-bottom: 10px solid #1eaed3;
+      border-bottom: none;
     }
     header .profile-pic {
       grid-column: 1/-1;
