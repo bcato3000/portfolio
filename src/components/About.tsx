@@ -23,12 +23,7 @@ const About: React.FC = () => {
       <h2>About</h2>
       <div className="about-me">
         <p>
-          I <span className="highlight-blueC">Love</span> front-end/UI development, interactive design,
-          latest technologies, <span className="highlight-orangeC">burritos</span>, the 80's (movies & music),
-          anything vintage / retro, American History, 90's hip-hop / rap, classic rock, oldies, 20's jazz,
-          modern blue grass, and <strong>my family</strong>. I <span className="highlight-purpleC">Like</span> to be
-          courteous, punctual, to laugh, to look out windows, people watching, binge watching a series.&nbsp;
-          <span className="highlight-greenC">Everything else </span>is fine.
+          I have 12 years of experience building front-end applications with <span className="highlight-blueC">React</span>, <span className="highlight-orangeC">Next.js</span>, <span className="highlight-purpleC">Vue</span>, and <span className="highlight-greenC">TypeScript</span>. I specialize in creating responsive, accessible, and high-performing UIs, and I’ve led projects from prototype to production across e-commerce, fintech, and enterprise CMS platforms. I’ve worked closely with design teams in Figma to deliver pixel-perfect interfaces, integrated with REST and GraphQL APIs, and optimized applications for Core Web Vitals. I also have experience mentoring developers, conducting code reviews, and setting standards to ensure scalability and maintainability.
         </p>
         <div className="carousel" ref={carouselRef}>
           {logoData.map((logo, index) => (
