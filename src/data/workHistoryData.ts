@@ -5,7 +5,7 @@ export const workHistory = [
     "companyUrl": "https://www.capstonelogistics.com/",
     "location": "Atlanta, GA",
     "title": "UI Engineer",
-    "description": "Developed white-label React/Next.js applications across multiple brands \u2022 Acted as liaison between UX design and engineering teams \u2022 Contributed to scalable and accessible UI using HTML5, CSS3, Sass, JavaScript, and TypeScript"
+    "description": "Developed white-label React/Next.js applications across multiple brands \u2022 Acted as liaison between UX design and engineering teams \u2022 Contributed to scalable and accessible UI using HTML5, CSS3, Sass, JavaScript, and TypeScript \u2022 Pushed white-label React/Next.js applications to production in April 2025, including Sonic’s order management system"
   },
   {
     "date": "January '24 - July '24 (contract role)",
@@ -13,7 +13,7 @@ export const workHistory = [
     "companyUrl": "https://www.capstonelogistics.com/",
     "location": "Atlanta, GA",
     "title": "Lead Front-end Developer",
-    "description": "Led web portal development using Vue 3 (JS/TS) for logistics applications \u2022 Mentored junior developers and coordinated with design teams \u2022 Oversaw front-end architecture and delivery for a large SPA"
+    "description": "Led web portal development using Vue 3 (JS/TS) for logistics applications \u2022 Delivered UI development for Capstone’s largest client, Staples, ensuring scalability and performance \u2022 Mentored junior developers and coordinated with design teams \u2022 Oversaw front-end architecture and delivery for a large SPA"
   },
   {
     "date": "May '23 - October '23 (contract role)",
@@ -21,7 +21,7 @@ export const workHistory = [
     "companyUrl": "https://www.whereoware.com/",
     "location": "Atlanta, GA",
     "title": "Senior Front-end / UI / UX Developer",
-    "description": "Created modular React components with Storybook (TypeScript) \u2022 Built and optimized front-ends for CMS platforms like Optimizely and Sitecore \u2022 Led multiple front-end projects and code reviews, with focus on performance and accessibility"
+    "description": "Created modular React components with Storybook (TypeScript) \u2022 Built and optimized front-ends for CMS platforms like Optimizely and Sitecore \u2022 Led multiple front-end projects and code reviews, with focus on performance and accessibility \u2022 Led successful CMS migration from Sitecore to Optimizely for ConnectWise, improving maintainability and content delivery"
   },
   {
     "date": "April '13 - July '20 / Dec '21 - May '23",
@@ -29,7 +29,7 @@ export const workHistory = [
     "companyUrl": "http://www.brainjocks.com/",
     "location": "Alpharetta, GA",
     "title": "Lead Front-end / UI / UX Developer",
-    "description": "Built SPAs using React for large-scale Sitecore and Optimizely CMS platforms \u2022 Delivered modular components using Storybook + TypeScript \u2022 Mentored junior devs and collaborated closely with client teams like Publix and Sage \u2022 Created and maintained SPAs for enterprise CMS platforms \u2022 Led UI efforts for clients including P&G, Honeywell, and Pergo \u2022 Trained junior devs and led internal front-end initiatives (SCORE UI training)"
+    "description": "Built SPAs using React for large-scale Sitecore and Optimizely CMS platforms \u2022 Delivered modular components using Storybook + TypeScript \u2022 Mentored junior devs and collaborated closely with client teams like Publix and Sage \u2022 Partnered with Cook Children’s Healthcare, Publix (Subs and Wraps ordering), and Sage to deliver high-quality React and CMS front-ends \u2022 Created and maintained SPAs for enterprise CMS platforms \u2022 Led UI efforts for clients including P&G, Honeywell, and Pergo \u2022 Delivered end-to-end front-end projects from wireframes to production for brands including P&G (Swiffer, Amdro), Honeywell (Resideo), Acuity Lighting, Marcus & Millichap, IPA, and Allegis Group \u2022 Trained junior devs and led internal front-end initiatives (SCORE UI training)"
   },
   {
     "date": "August '20 - Dec '21",
@@ -37,7 +37,7 @@ export const workHistory = [
     "companyUrl": "https://www.fleetcor.com/",
     "location": "Atlanta, GA",
     "title": "Senior Front-end / UI Developer",
-    "description": "Developed front-end for fintech products with a focus on data visualization (D3.js) \u2022 Built global component library for enterprise-wide usage \u2022 Collaborated with designers and QA to deliver pixel-perfect, tested interfaces"
+    "description": "Developed front-end for fintech products with a focus on data visualization (D3.js) \u2022 Built global component library for enterprise-wide usage \u2022 Collaborated with designers and QA to deliver pixel-perfect, tested interfaces \u2022 Received company award for top change-driven contributor while building fintech dashboards and enterprise UI libraries"
   },
   {
     "date": "Dec '12 - April '13",
