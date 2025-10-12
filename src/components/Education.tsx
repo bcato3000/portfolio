@@ -14,7 +14,7 @@ const Education: React.FC = () => {
               The Creative Circus
             </a>
           </h3>
-          <h4>Atlanta, GA<br />Interactive development</h4>
+          <h4>Atlanta, GA<br />Diploma, Interactive Development<br />Specialization GPA 4.0</h4>
         </div>
 
         <div className="date">
@@ -26,7 +26,7 @@ const Education: React.FC = () => {
               North Metro Technical College
             </a>
           </h3>
-          <h4>Acworth, GA<br />Diploma, Computer Information Systems/Microcomputer<br />Specialization GPA 3.97</h4>
+          <h4>Acworth, GA<br />Associate's, Computer Science<br />Specialization GPA 3.97</h4>
         </div>
 
         <div className="date">
