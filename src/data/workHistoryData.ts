@@ -40,7 +40,7 @@ export const workHistory = [
     "description": "Developed front-end for fintech products with a focus on data visualization (D3.js) \u2022 Built global component library for enterprise-wide usage \u2022 Collaborated with designers and QA to deliver pixel-perfect, tested interfaces \u2022 Received company award for top change-driven contributor while building fintech dashboards and enterprise UI libraries"
   },
   {
-    "date": "April '13 - March '20",
+    "date": "April '13 - August '20",
     "company": "BrainJocks/Perficient",
     "companyUrl": "http://www.brainjocks.com/",
     "location": "Atlanta, GA",
