@@ -40,6 +40,14 @@ export const workHistory = [
     "description": "Developed front-end for fintech products with a focus on data visualization (D3.js) \u2022 Built global component library for enterprise-wide usage \u2022 Collaborated with designers and QA to deliver pixel-perfect, tested interfaces \u2022 Received company award for top change-driven contributor while building fintech dashboards and enterprise UI libraries"
   },
   {
+    "date": "April '13 - March '20",
+    "company": "BrainJocks/Perficient",
+    "companyUrl": "http://www.brainjocks.com/",
+    "location": "Atlanta, GA",
+    "title": "Lead Front-end Developer",
+    "description": "\u2022 Created and maintained UI component libraries for enterprise CMS platforms \u2022 Led UI efforts for clients including P&G, Honeywell, and Pergo \u2022 Trained junior devs and led internal front-end initiatives (SCORE UI training)\u2022 Delivered end-to-end front-end projects from wireframes to production for brands including P&G (Swiffer, Amdro), Honeywell (Resideo), Acuity Lighting, Marcus & Millichap, IPA, and Allegis Group"
+  },
+  {
     "date": "Dec '12 - April '13",
     "company": "LaDart Creative",
     "companyUrl": "http://www.ladartcreative.com/",
